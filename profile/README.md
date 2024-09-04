@@ -1,5 +1,5 @@
 # { WE ARE TEAMERA }
-We’re a group of Portuguese programmers with a deep passion for coding and design.
+an friend group of Portuguese programmers
 
 
 <h3 align="left">Languages and Tools we use:</h3>
